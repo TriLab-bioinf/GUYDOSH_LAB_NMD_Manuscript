@@ -1,0 +1,38 @@
+# Technologu prefixes from read IDs,,,,,
+# @HWI-Mxxxx or @Mxxxx - MiSeq,,,,,
+# @HWUSI - GAIIx,,,,,
+# @HWI-Dxxxx - HiSeq 2000/2500,,,,,
+# @Kxxxx - HiSeq 3000(?)/4000,,,,,
+# @Nxxxx - NextSeq 500/550,,,,,
+# @Axxxxx - NovaSeq,,,,,
+# @Vxxxxx = NextSeq 2000,,,,,
+# @AAxxxxx - NextSeq 2000 P1/P2/P3,,,,,
+# _2225* - NextSeq P4,,,,,
+# @Hxxxxxx - NovaSeq S1/S2/S4,,,,,
+#,,,,,
+# Sample sheet for Illumina sequencing,,,,,
+sample_ID,fastq_1,fastq_2,genome_name,gff,genome
+S_cerevisiae_rich_medium,SRR8690267_1.fastq.gz,SRR8690267_2.fastq.gz,s_cerevisiae,s_cerevisiae_annotations_with_novel.gff,s_cerevisiae.genomic.fasta
+S_paradoxus_rich_medium,SRR8690268_1.fastq.gz,SRR8690268_2.fastq.gz,s_paradoxus,s_paradoxus_annotations_with_novel.gff,s_paradoxus.genomic.fasta
+S_mikatae_rich_medium,SRR8690269_1.fastq.gz,SRR8690269_2.fastq.gz,s_mikatae,s_mikatae_annotations_with_novel.gff,s_mikatae.genomic.fasta
+S_kudriavzevii_rich_medium,SRR8690270_1.fastq.gz,SRR8690270_2.fastq.gz,s_kudriavzevii,s_kudriavzevii_annotations_with_novel.gff,s_kudriavzevii.genomic.fasta
+S_bayanus_rich_medium,SRR8690271_1.fastq.gz,SRR8690271_2.fastq.gz,s_bayanus,s_bayanus_annotations_with_novel.gff,s_bayanus.genomic.fasta
+N_castelii_rich_medium,SRR8690272_1.fastq.gz,SRR8690272_2.fastq.gz,n_castellii,n_castellii_annotations_with_novel.gff,n_castellii.genomic.fasta
+K_lactis_rich_medium,SRR8690273_1.fastq.gz,SRR8690273_2.fastq.gz,k_lactis,k_lactis_annotations_with_novel.gff,k_lactis.genomic.fasta
+L_waltii_rich_medium,SRR8690274_1.fastq.gz,SRR8690274_2.fastq.gz,l_waltii,l_waltii_annotations_with_novel.gff,l_waltii.genomic.fasta
+L_waltii_replicate_2_rich_medium,SRR8690275_1.fastq.gz,SRR8690275_2.fastq.gz,l_waltii_rep2,l_waltii_rep2_annotations_with_novel.gff,l_waltii_rep2.genomic.fasta
+L_thermotolerans_rich_medium,SRR8690276_1.fastq.gz,SRR8690276_2.fastq.gz,l_thermotolerans,l_thermotolerans_annotations_with_novel.gff,l_thermotolerans.genomic.fasta
+L_kluyveri_rich_medium,SRR8690261_1.fastq.gz,SRR8690261_2.fastq.gz,l_kluyveri,l_kluyveri_annotations_with_novel.gff,l_kluyveri.genomic.fasta
+Schizo_pombe_rich_medium,SRR8690262_1.fastq.gz,SRR8690262_2.fastq.gz,schizo_pombe,schizo_pombe_annotations_with_novel.gff,schizo_pombe.genomic.fasta
+S_cerevisiae_oxidative_stress,SRR8690263_1.fastq.gz,SRR8690263_2.fastq.gz,s_cerevisiae,s_cerevisiae_annotations_with_novel.gff,s_cerevisiae.genomic.fasta
+S_paradoxus_oxidative_stress,SRR8690264_1.fastq.gz,SRR8690264_2.fastq.gz,s_paradoxus,s_paradoxus_annotations_with_novel.gff,s_paradoxus.genomic.fasta
+S_mikatae_oxidative_stress,SRR8690257_1.fastq.gz,SRR8690257_2.fastq.gz,s_mikatae,s_mikatae_annotations_with_novel.gff,s_mikatae.genomic.fasta
+S_kudriavzevii_oxidative_stress,SRR8690258_1.fastq.gz,SRR8690258_2.fastq.gz,s_kudriavzevii,s_kudriavzevii_annotations_with_novel.gff,s_kudriavzevii.genomic.fasta
+S_bayanus_oxidative_stress,SRR8690259_1.fastq.gz,SRR8690259_2.fastq.gz,s_bayanus,s_bayanus_annotations_with_novel.gff,s_bayanus.genomic.fasta
+N_castelii_oxidative_stress,SRR8690260_1.fastq.gz,SRR8690260_2.fastq.gz,n_castellii,n_castellii_annotations_with_novel.gff,n_castellii.genomic.fasta
+K_lactis_oxidative_stress,SRR8690265_1.fastq.gz,SRR8690265_2.fastq.gz,k_lactis,k_lactis_annotations_with_novel.gff,k_lactis.genomic.fasta
+L_waltii_oxidative_stress,SRR8690266_1.fastq.gz,SRR8690266_2.fastq.gz,l_waltii,l_waltii_annotations_with_novel.gff,l_waltii.genomic.fasta
+L_waltii_replicate_2_oxidative_stress,SRR8690278_1.fastq.gz,SRR8690278_2.fastq.gz,l_waltii_rep2,l_waltii_rep2_annotations_with_novel.gff,l_waltii_rep2.genomic.fasta
+L_thermotolerans_oxidative_stress,SRR8690277_1.fastq.gz,SRR8690277_2.fastq.gz,l_thermotolerans,l_thermotolerans_annotations_with_novel.gff,l_thermotolerans.genomic.fasta
+L_kluyveri_oxidative_stress,SRR8690280_1.fastq.gz,SRR8690280_2.fastq.gz,l_kluyveri,l_kluyveri_annotations_with_novel.gff,l_kluyveri.genomic.fasta
+Schizo_pombe_oxidative_stress,SRR8690279_1.fastq.gz,SRR8690279_2.fastq.gz,schizo_pombe,schizo_pombe_annotations_with_novel.gff,schizo_pombe.genomic.fasta
