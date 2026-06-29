@@ -6,9 +6,7 @@ _1: Laboratory of Biochemistry and Genetics
 
 _2: TriLab Bioinformatics Group
 
-National Institute of Diabetes and Digestive and Kidney Diseases, National Institutes of Health
-
-Bethesda, MD 20892 USA
+National Institute of Diabetes and Digestive and Kidney Diseases, National Institutes of Health, Bethesda, MD 20892 USA
 
 *Corresponding author: nicholas.guydosh@nih.gov (lead contact)
 
