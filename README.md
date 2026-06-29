@@ -10,3 +10,26 @@ National Institute of Diabetes and Digestive and Kidney Diseases, National Insti
 
 *Corresponding author: nicholas.guydosh@nih.gov (lead contact)
 
+
+## RNAseq pipeline:
+### 1- Download the RNAseq pipeline by running the following command in your WD:
+```
+git clone https://github.com/TriLab-bioinf/GUYDOSH_LAB_NMD_Manuscript.git 
+
+cd GUYDOSH_LAB_NMD_Manuscript
+```
+
+### 2- Copy Biowulf Snakemake profile in your RNAseq_pipeline directory
+```
+git clone https://github.com/NIH-HPC/snakemake_profile.git
+```
+
+### 4- Copy Biowulf Snakemake profile in RNAseq_pipeline/config directory
+```
+# Download the biowulf snakemake profile from GitHub
+git clone https://github.com/NIH-HPC/snakemake_profile.git
+
+# Move nakemake_profile into the config directory
+mv snakemake_profile ./config/
+```
+
